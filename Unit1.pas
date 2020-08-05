@@ -68,6 +68,8 @@ end;
     Classe record tem dentro dele o Class Operator ADD com isso consigo somar a classe;
 
     Você só vai somar o objeto, e já irá ter uma classe implícita que faz isso para você de forma automática
+
+    de onde estudei http://thuliobittencourt.com
     }
 
 end.
